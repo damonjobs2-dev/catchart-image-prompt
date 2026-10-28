@@ -1,0 +1,4 @@
+interface:
+  display_name: "CatchArt 图片反推"
+  short_description: "从参考图片提取可见视觉证据，生成常见画幅与中英双语提示词"
+  default_prompt: "使用 $catchart-image-prompt 反推这张图片，保留关键构图与风格，输出中英文提示词。"
