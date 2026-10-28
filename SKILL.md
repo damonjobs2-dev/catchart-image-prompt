@@ -2,7 +2,7 @@
 name: catchart-image-prompt
 description: 从参考图片反推可直接用于生图的中英文提示词，保留构图、画幅和关键视觉特征。用于“反推这张图”“提取图片提示词”“生成相近画面提示词”；普通图片问答或只识别文字时不触发。
 metadata:
-  version: "0.1.0"
+  version: "1.1.4"
 ---
 
 # CatchArt 图片反推
